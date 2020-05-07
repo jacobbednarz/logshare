@@ -1,5 +1,5 @@
 # Ignore the logshare binary
 cmd/logshare-cli/logshare-cli
 
-
+# Ignore built binaries
 build/
